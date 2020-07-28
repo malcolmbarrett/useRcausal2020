@@ -17,7 +17,6 @@ Imports:
     broom,
     cidata,
     ggdag,
-    rms,
     rsample (>= 0.0.5),
     survey,
     tableone,
