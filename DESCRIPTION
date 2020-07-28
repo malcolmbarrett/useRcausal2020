@@ -21,10 +21,11 @@ Imports:
     rsample (>= 0.0.5),
     survey,
     tableone,
-    tidyverse
+    tidyverse,
+    usethis
 Remotes: 
     malcolmbarrett/cidata
 Encoding: UTF-8
 Language: en-US
 LazyData: true
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.1
